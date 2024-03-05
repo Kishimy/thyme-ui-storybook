@@ -1,0 +1,1 @@
+.thuiTypography{font-family:var(--thui-font-family-name-main)}.thuiTypography{position:relative;width:fit-content}.thuiTypography:focus{outline:0 none;outline-offset:0}.thuiTypography--truncate{overflow:hidden;white-space:nowrap;text-overflow:ellipsis}
